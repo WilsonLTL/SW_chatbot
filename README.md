@@ -8,10 +8,15 @@
 https://github.com/haseemisaac/Dialogflow2Discord
 
 本聊天機械人功能包括:
+
 1.空白副本靈魂石 跌落時間表
+
 2.靈魂石合成所需材料數量
+
 3.AR Card詳細情報
+
 4.AR Card合成所需經驗
+
 5.角色等級到達獎勵 (例如防爆 裝備復原 擴充武器)
 
 歡迎所有人為她提出不同的ideas :D
