@@ -1,18 +1,19 @@
 # SW_chatbot
 
-A discordbot using Dialogflow(api.ai) for information enqury of Soul worker player (TW)
+一個為靈魂行者(TW)玩家所製作的DiscordBot
 
-Basic on NLP, but you still can't chit chat with her XD
+使用 Dialogflow (api.ai)製作並提供NLP,但你依然不能和她chitchat XD
 
-The bot need to turn on the adapter provided by ___ to handle the data exchange 
+本聊天機械人使用由Haseem Isaac提供的Dialogflow2Discord進行Discord與Dialogflow的資料交換
+https://github.com/haseemisaac/Dialogflow2Discord
 
-Content include :
-1. asking for timetable of soul stone
-2. the price of soul stone (level 1 to level 9)
-3. the exp level of ar card
-4. the cost of level up of ar cards 
-5. AR cards information
+本聊天機械人功能包括:
+1.空白副本靈魂石 跌落時間表
+2.靈魂石合成所需材料數量
+3.AR Card詳細情報
+4.AR Card合成所需經驗
+5.角色等級到達獎勵 (例如防爆 裝備復原 擴充武器)
 
-More ideas of develop the bots are welcome and i will share the code latey.
+歡迎所有人為她提出不同的ideas :D
 
-Please being noted that the bot just can run by chinese language , but it is welcome to modify it as another language version.
+*Please being noted that the bot just can run by chinese language , but it is welcome to modify it as another language version.
