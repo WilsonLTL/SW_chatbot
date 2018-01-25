@@ -17,3 +17,6 @@ https://github.com/haseemisaac/Dialogflow2Discord
 歡迎所有人為她提出不同的ideas :D
 
 *Please being noted that the bot just can run by chinese language , but it is welcome to modify it as another language version.
+
+2018/1/22<br />
+台服政策,暫時停機
